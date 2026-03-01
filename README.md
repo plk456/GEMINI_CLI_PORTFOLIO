@@ -1,5 +1,7 @@
 # Prodduturu Likith Kumar - Portfolio Project
 
+> **Created by Prodduturu Likith Kumar using Gemini CLI**
+
 This project is a modern, responsive portfolio website built using React and TypeScript, based on the professional experience and skills extracted from `RESUME.pdf`.
 
 ## Project Structure
@@ -53,4 +55,4 @@ To run the portfolio locally:
 - **Deployment:** Ready for platforms like Vercel or Netlify.
 
 ---
-Created with ❤️ by Gemini CLI
+Created by **Prodduturu Likith Kumar** using **Gemini CLI** 🚀
